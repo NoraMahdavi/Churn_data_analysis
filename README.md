@@ -1,5 +1,6 @@
-# ChurnDataAnalysis
-This is a data analysis project on a telecom company's customers dataset. The objective is to get insights on churned customers and their features.
+# Telecom Customer Churn Analysis 📊
+
+This project analyzes a telecom company's customer dataset to understand the key features that contribute to customer churn. The goal is to identify factors that influence whether a customer stays or leaves the service.
 
 ## Table of Contents
 [
